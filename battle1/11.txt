@@ -1,0 +1,1 @@
+<p a><p b><p c><style>*{background:#191210;position:fixed}[a],[d]{border-radius:50%}[a]{width:50;height:50;background:#84271C;border:25px solid#191210;margin:92 142;box-shadow:0 0 0 20px#ECA03D;z-index:1}[b],[c]{width:60;height:30;border:20px solid#ECA03D}[b]{border-top:none;border-radius:0 0 60px 60px;margin:142 42}[c]{border-bottom:none;border-radius:60px 60px 0 0;margin:92 242

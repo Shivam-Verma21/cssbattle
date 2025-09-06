@@ -1,0 +1,1 @@
+<p a><p b><p c><style>*{background:#6592CF;position:fixed}p{background:#243D83}[a]{width:300;height:150;margin:67 42}[b],[c]{border-radius:50%}[b]{width:150;height:150;border:50px solid#6592CF;margin:17 67}[c]{width:50;height:50;background:#EEB850;margin:117 167
