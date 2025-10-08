@@ -1,0 +1,43 @@
+<div>
+  <p a e>
+  <p b>
+  <p c>
+  <p d>
+</div>
+<style>
+  *{
+    margin:0;
+    background:#F4DCBF;
+  }
+  body{
+    display:flex;
+    align-items:center;
+    justify-content:center;
+  }
+  div{
+    display:grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap:30px;
+  }
+  p{
+    width:60;
+    height:120;
+    background:#D95362;
+    position:relative;
+  }
+  p[e]:after{
+    content:'';
+    position:absolute;
+    width:30;
+    height:30;
+    background:#D95362;
+    bottom:-30;
+    right:-30;
+  }
+  p[a],p[d]{
+    border-radius:0 60px 0;
+  }
+  p[b],p[c]{
+    border-radius:60px 0 60px;
+  }
+</style>

@@ -1,0 +1,49 @@
+<!-- 99.9% match 😵 -->
+<p>
+<style>
+  *{
+    margin:0;
+    background:#2F434E;
+  }
+  body{
+    position:relative;
+  }
+  p{
+    width:80;
+    height:80;
+    background:#CF6939;
+    position:relative;
+    left:160;
+    top:110;
+    border-radius:50%;
+  }
+  body:before,body:after,p:before,p:after{
+    content:'';
+    position:absolute;
+    background:#F8B140;
+    width:60;
+    height:60;
+  }
+  body:before,body:after{
+    left:170;
+  }
+  body:before{
+    top:35;
+    border-radius:40% 40% 0 0;
+  }
+  body:after{
+    bottom:35;
+    border-radius:0 0 40% 40%;
+  }
+  p:before,p:after{
+    top:10;
+  }
+  p:before{
+    left:-75;
+    border-radius:40% 0 0 40%;
+  }
+  p:after{
+    right:-75;
+    border-radius:0 40% 40% 0;
+  }
+</style>

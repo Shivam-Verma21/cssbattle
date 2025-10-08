@@ -1,0 +1,46 @@
+<p a><p b>
+<style>
+    *{
+        margin:0
+    }
+    body{
+        background:#CF6939;
+        display:flex;
+        justify-content:center;
+        align-items:center;
+        flex-direction:column
+    }
+    p[a]{
+        width:60;
+        height:80;
+        border:40px solid #F9D081;
+        border-bottom:none;
+        border-top-left-radius:80px;
+        border-top-right-radius:80px;
+        margin-top:15;
+        position:relative
+    }
+    p[a]::after,p[b]::after{
+        content:'';
+        position:absolute;
+        width:60
+    }
+    p[a]::after{
+        background:#123747;
+        height:80;
+        bottom:-80
+    }
+    p[b]{
+        width:140;
+        height:70;
+        background:#F9D081;
+        border-radius:0 0 70px 70px;
+        margin-top:80;
+        position:relative
+    }
+    p[b]::after{
+        background:#6D8971;
+        height:30;
+        border-radius:0 0 30px 30px;
+        left:40
+    }
