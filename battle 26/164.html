@@ -1,0 +1,28 @@
+<dl><dl><dl><p>
+<style>
+*,
+p {
+  --c: #d86f45;
+  background: radial-gradient(1Q, transparent, 32Q, var(--c) 0 53Q, #66284a);
+}
+* > * {
+  width: 120;
+  height: 120;
+  margin: 90 80;
+  float: left;
+  > * {
+    rotate: -90deg;
+    margin: 60;
+    --c: #fdfbf8;
+    > * {
+      --c: #d669ec;
+      > * {
+        --c: #f0cd48;
+        > * {
+          clip-path: inset(0 0 64Q);
+        }
+      }
+    }
+  }
+}
+</style>
