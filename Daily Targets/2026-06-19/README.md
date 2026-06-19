@@ -22,25 +22,5 @@ Challenge: <https://cssbattle.dev/play/5HntWfntp6RmDVX4hhHs>
 ## Code
 
 ```html
-<p><p a>
-<style>
-  *{
-    margin:0;
-    position:fixed;
-    background:#AF6A8A;
-  }
-  p{
-    width:60;
-    height:60;
-    background:#444;
-    border:solid#fff;
-    border-width:60 60 0 0;
-    transform:rotate(45deg);
-    margin:90 98;
-  }
-  [a]{
-    transform:rotate(-135deg);
-    margin:90 183;
-  }
-</style>
+<p a><p b><style>*{background:#AF6A8A}p{rotate:45deg}[a]{width:180;height:180;background:#fff;corner-shape:notch;border-radius:64q;margin:60 102}[b]{width:60;height:60;background:#444;margin:-180 77;box-shadow:30vw -30vw#444
 ```
