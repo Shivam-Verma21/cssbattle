@@ -22,22 +22,5 @@ Challenge: <https://cssbattle.dev/play/YJ5FEvmSn4jjeldoB66K>
 ## Code
 
 ```html
-<p><p a>
-<style>
-  p{
-    width:60;
-    height:60;
-    background:#004B8E;
-    margin:120 162;
-    box-shadow:0 0 0 32q#fff,0 0 0 63q#EC1D25;
-  }
-  [a]{
-    width:30;
-    height:30;
-    background:#fff;
-    color:#fff;
-    margin:-240 177;
-    box-shadow:-75px 75px,75px 75px,0 50vh;
-  }
-</style>
+<p><p a><style>p{width:60;height:60;background:#004B8E;margin:120 162;box-shadow:0 0 0 32q#fff,0 0 0 63q#EC1D25}[a]{width:30;height:30;background:#fff;color:#fff;margin:-240 177;box-shadow:-75px 75px,75px 75px,0 50vh
 ```
