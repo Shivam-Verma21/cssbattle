@@ -22,25 +22,5 @@ Challenge: <https://cssbattle.dev/play/sPBh2rqUt3ilhlL5Rdhj>
 ## Code
 
 ```html
-<p a><p b><p c>
-<style>
-  *{
-    margin:0;
-    position:fixed;
-  }
-  [a]{
-    width:90;
-    height:30;
-    background:#000;
-    margin:135 20;
-    box-shadow:110px 0;
-  }
-  [b]{
-    width:50;
-    height:100;
-    border:30px solid;
-    border-radius:74px 0 0 74px;
-    margin:70 240;
-  }
-</style>
+<p a><p b><p c><style>*{height:30}[a]{width:90;background:#000;margin:135 12;box-shadow:116q 0}[b]{width:50;height:100;border:32q solid;border-radius:95%0 0 95%/75%;margin:-230 232}[c]{width:70;margin:200 302;background:linear-gradient(to right,#fff 14%,#000 0
 ```
