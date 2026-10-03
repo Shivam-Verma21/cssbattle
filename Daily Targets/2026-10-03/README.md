@@ -22,34 +22,5 @@ Challenge: <https://cssbattle.dev/play/jIyS5tiYDKOTes7oiBMb>
 ## Code
 
 ```html
-<div><p><p a></div>
-<style>
-  *{
-    margin:0;
-    background:#B08743;
-  }
-  div{
-    width:160;
-    height:160;
-    background:#fff;
-    border-radius:50%;
-    border:20px solid#441212;
-    overflow:hidden;
-    margin:50 100;
-  }
-  p{
-    width:200;
-    height:200;
-    background:#441212;
-    border-radius:50%;
-    margin:-120 -80;
-    box-shadow:200px 40px#441212;
-  }
-  [a]{
-    width:20;
-    height:20;
-    margin:130 30;
-    box-shadow:80px 0#441212;
-  }
-</style>
+<div><p><p a><style>*{background:#B08743;width:200;height:200;border-radius:50%}p{background:#441212;color:#441212;margin:-100-60;box-shadow:50vw 5ch}[a]{width:20;height:20;margin:110 50;box-shadow:5pc 0}div{margin:50 92;overflow:hidden;background:radial-gradient(#fff 5pc,#441212 0
 ```
