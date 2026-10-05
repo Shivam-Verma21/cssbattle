@@ -22,31 +22,5 @@ Challenge: <https://cssbattle.dev/play/kKeIFq1dBXUmV9k1c7d0>
 ## Code
 
 ```html
-<p>
-<p a>
-<p b>
-<style>
-  *{
-    margin:0;
-    position:fixed;
-    background:#F7CB71;
-  }
-  p{
-    width:59;
-    height:120;
-    background:#D16161;
-    margin:90 70;
-  }
-  [a]{
-    rotate:90deg;
-    margin:90 70;
-  }
-  [b]{
-    width:50;
-    height:50;
-    border-radius:50%;
-    margin:90 310;
-    box-shadow:-70px 0#4D52D0,0 70px#D16161,-70px 70px#4D52D0;
-  }
-</style>
+<p a><p b><style>*{background:#F7CB71}p{background:#D16161}[a]{width:120;height:120;margin:90 32;corner-shape:notch;border-radius:8mm}[b]{width:50;height:50;border-radius:50%;margin:-210 302;box-shadow:-74q 0#4D52D0,0 74q#D16161,-74q 74q#4D52D0
 ```
