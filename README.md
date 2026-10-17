@@ -29,7 +29,7 @@ _+ means this battle may receive more targets._
 </li>
 </ul>
 
-### Daily Targets (124)
+### Daily Targets (125)
 
 <ul>
 <li>
@@ -174,7 +174,7 @@ _+ means this battle may receive more targets._
 </li>
 <li>
 <details>
-<summary><strong>October 2026 (16/16+)</strong></summary>
+<summary><strong>October 2026 (17/17+)</strong></summary>
 
 <ul>
 <li><a href="./Daily%20Targets/2026-10-01/">Oct 1, 2026</a></li>
@@ -193,6 +193,7 @@ _+ means this battle may receive more targets._
 <li><a href="./Daily%20Targets/2026-10-14/">Oct 14, 2026</a></li>
 <li><a href="./Daily%20Targets/2026-10-15/">Oct 15, 2026</a></li>
 <li><a href="./Daily%20Targets/2026-10-16/">Oct 16, 2026</a> (245 Characters)</li>
+<li><a href="./Daily%20Targets/2026-10-17/">Oct 17, 2026</a> (175 Characters)</li>
 </ul>
 </details>
 </li>
