@@ -22,36 +22,5 @@ Challenge: <https://cssbattle.dev/play/jnMuDO3lQ6zvVd2hlovm>
 ## Code
 
 ```html
-<p a><p a b><p a c><p a d><p e>
-<style>
-  *{
-    margin:0;
-    position:fixed;
-    background:#C36271;
-  }
-  [a]{
-    width:60;
-    height:170;
-    background:#F2E09F;
-    margin:65 170;
-  }
-  [b]{
-    rotate:90deg;
-    margin:65 170;
-  }
-  [c]{
-    rotate:45deg;
-    margin:65 170;
-  }
-  [d]{
-    rotate:-45deg;
-    margin:65 170;
-  }
-  [e]{
-    margin:115 165;
-    width:70;
-    height:70;
-    clip-path:
-  polygon(55% 0,85% 15%,100% 50%,85% 85%,50% 100%,15% 85%,0 50%,15% 15%)}
-</style>
+<p><p a><p b><p c><p d><p e><p f><p g><style>*{background:#C36271}p{width:60;height:60;background:#F2E09F;border-radius:0 0 5pc;margin:65 162}[a]{rotate:45deg;margin:-109 201}[b]{rotate:90deg;margin:88 217}[c]{rotate:135deg;margin:-109 201}[d]{rotate:180deg;margin:65 162}[e]{rotate:225deg;margin:-141 123}[f]{rotate:270deg;margin:42 107}[g]{rotate:315deg;margin:-141 123
 ```
